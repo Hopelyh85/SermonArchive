@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-preachers/jack-arnold/","dg-note-properties":{"category":"설교자소개","생애":null,"주요저서":null}}
+{"dg-publish":true,"permalink":"/02_Preachers/잭 아놀드(JACK ARNOLD)/","dg-note-properties":{"category":"설교자소개","생애":null,"주요저서":null}}
 ---
 
 

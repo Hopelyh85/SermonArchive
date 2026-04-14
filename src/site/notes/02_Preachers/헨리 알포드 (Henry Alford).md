@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-preachers/henry-alford/","dg-note-properties":{"category":"설교자소개","생애":null,"주요저서":null}}
+{"dg-publish":true,"permalink":"/02_Preachers/헨리 알포드 (Henry Alford)/","dg-note-properties":{"category":"설교자소개","생애":null,"주요저서":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-preachers/daniel-l-akin/","dg-note-properties":{"category":"설교자소개","생애":null,"주요저서":"『그리스도 중심의 성경 해설』 시리즈 (Christ-Centered Exposition Commentary), 『신학개론』 (A Theology for the Church), 『그리스도 중심의 성경 해설』 시리즈 (Christ-Centered Exposition Commentary)"}}
+{"dg-publish":true,"permalink":"/02_Preachers/대니 애킨(Daniel L. Akin)/","dg-note-properties":{"category":"설교자소개","생애":null,"주요저서":"『그리스도 중심의 성경 해설』 시리즈 (Christ-Centered Exposition Commentary), 『신학개론』 (A Theology for the Church), 『그리스도 중심의 성경 해설』 시리즈 (Christ-Centered Exposition Commentary)"}}
 ---
 
 
