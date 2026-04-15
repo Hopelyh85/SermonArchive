@@ -7,7 +7,7 @@
 
 ## 1. 생애 및 신학적 배경
 
-대니 애킨(Daniel L. Akin) 박사는 미국의 저명한 신학자이자 교육자로, 현재 노스캐롤라이나주 웨이크 포레스트에 위치한 **사우스이스턴 침례신학대학원(Southeastern Baptist Theological Seminary, SEBTS)**의 제6대 총장으로 재직 중입니다.
+대니 애킨(Daniel L. Akin) 박사는 미국의 저명한 신학자이자 교육자로, 현재 노스캐롤라이나주 웨이크 포레스트에 위치한 사우스이스턴 침례신학대학원(Southeastern Baptist Theological Seminary, SEBTS)의 제6대 총장으로 재직 중입니다.
 
 그는 특히 강해 설교와 지상대명령(선교)을 강조하는 인물로 잘 알려져 있습니다. 그에 대한 주요 정보는 다음과 같습니다.
 
