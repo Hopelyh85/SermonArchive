@@ -90,7 +90,6 @@
 - 
 
 ## 3. 번역된 설교 목록
-```dataview
-LIST FROM "01_Sermons"
-WHERE contains(설교자, [[]])
-SORT 성경본문 ASC
+- [[01_Sermons/신약/서신서/갈라디아서/갈라디아서 서론, 잭 아놀드\|갈라디아서 서론, 잭 아놀드]]
+
+{ .block-language-dataview}

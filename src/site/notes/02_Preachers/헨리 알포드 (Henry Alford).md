@@ -142,7 +142,5 @@ https://teampyro.blogspot.com/2008/05/great-news-for-greekers-alford-gets.html
 - 
 
 ## 3. 번역된 설교 목록
-```dataview
-LIST FROM "01_Sermons"
-WHERE contains(설교자, [[]])
-SORT 성경본문 ASC
+
+{ .block-language-dataview}
