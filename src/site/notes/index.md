@@ -16,5 +16,6 @@
 | [[01_Sermons/신약/서신서/갈라디아서/2장/갈라디아서 2장, 대니 애킨\|갈라디아서 2장, 대니 애킨]]       | [[10_Bible_KRV_개역한글/48갈라디아서/갈2\|갈2]]       | [[02_Preachers/대니 애킨(Daniel L. Akin)\|대니 애킨(Daniel L. Akin)]] | \- | Austin Precept |
 | [[01_Sermons/신약/서신서/갈라디아서/6장/갈라디아서 6장 설교, 대니 애킨\|갈라디아서 6장 설교, 대니 애킨]] | [[10_Bible_KRV_개역한글/48갈라디아서/갈6\|갈6]]       | [[02_Preachers/대니 애킨(Daniel L. Akin)\|대니 애킨(Daniel L. Akin)]] | \- | Austin Precept |
 | [[01_Sermons/신약/서신서/갈라디아서/갈라디아서와 복음, 대니 애킨\|갈라디아서와 복음, 대니 애킨]]        | [[10_Bible_KRV_개역한글/48갈라디아서/갈라디아서\|갈라디아서]] | [[02_Preachers/대니 애킨(Daniel L. Akin)\|대니 애킨(Daniel L. Akin)]] | \- | Austin Precept |
+| [[01_Sermons/구약/지혜서/잠언/부모의 의무\|부모의 의무]]                               | 잠언 22장 6절                                     | [[02_Preachers/존 찰스 라일\|존 찰스 라일]]                             | \- | Austin Precept |
 
 { .block-language-dataview}
