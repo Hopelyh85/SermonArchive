@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"\"index\"","permalink":"/\"index\"/","dgShowBacklinks":"true","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"index","permalink":"/index/","dg-note-properties":{}}
 ---
-
+---
 
 | File                                                           | 본문                                            | 설교자                                                              | 상태 | 출처             |
 | -------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------------- | -- | -------------- |
