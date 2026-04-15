@@ -18,3 +18,4 @@ TABLE
 FROM "01_Sermons"
 WHERE 성경본문 != null
 SORT 성경본문 ASC
+```
