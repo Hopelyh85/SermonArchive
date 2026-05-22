@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01_Sermons/19 시편/시3 (스펄전) 다윗의 보고(The Treasury of David)/","dg-note-properties":{"성경본문":"시편","설교자":"[[찰스 해돈 스펄전(Charles Haddon Spurgeon)]]"}}
+{"dg-publish":true,"permalink":"/01_Sermons/19 시편/시3 (스펄전) 다윗의 보고(The Treasury of David)/","dg-note-properties":{"성경본문":"[[시편 3편]]","설교자":"[[찰스 해돈 스펄전(Charles Haddon Spurgeon)]]"}}
 ---
 
+tjstodsla
 
 # 설교 제목: 시편 3편 (Psalm 3)
 
